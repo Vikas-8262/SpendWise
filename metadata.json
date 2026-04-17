@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise Tracker",
+  "description": "A simple and attractive monthly expense tracker with manual entry, month-wise grouping, and smart filtering.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
